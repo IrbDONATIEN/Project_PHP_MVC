@@ -2,7 +2,7 @@
 
 ## Model View Controller App
 
-This is an example of object oriented programming in MVC but without the view to be able to practice in PHP without using frameworks or libraries, our MVC example is organized as follows, we have a Config folder which contains the database connection class, the Controllers folder which contains each view file (Read, Create, Update and Delete a student, the other Model folder which contains all the database classes.
+This is an example of object oriented programming in MVC but without the view to be able to practice in PHP without using frameworks or libraries, our MVC example is organized as follows, we have a Config folder which contains the database connection class, the Controllers folder which contains each view file (Read, Create, Update and Delete a book, the other Model folder which contains all the database classes.
 
 Here are the main features of this MVC in object-oriented programming, fully operational:
 
