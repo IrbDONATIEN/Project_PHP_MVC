@@ -38,6 +38,6 @@ Developers using this project should already have:
 
 ![update](https://user-images.githubusercontent.com/111361566/211107697-37ed24bd-194c-4891-ade2-9d952811ceb4.PNG)
 
-4. Deleting a specific Delete
+4. Deleting a specific book
 ![Delete](https://user-images.githubusercontent.com/111361566/211107683-c98195dd-ae8f-45c1-b7e8-ec592238e8c9.PNG)
 
