@@ -32,9 +32,12 @@ Developers using this project should already have:
 ![Livres](https://user-images.githubusercontent.com/111361566/211107294-b472c68d-6179-45c9-89f4-7d7dae15a108.PNG)
 2. Create the student in a secure way
 
-
+![create](https://user-images.githubusercontent.com/111361566/211107644-5ee54bb8-9b2d-4c23-9316-2547a09cd0b2.PNG)
 
 3. Updating data on the specific student 
 
+![update](https://user-images.githubusercontent.com/111361566/211107697-37ed24bd-194c-4891-ade2-9d952811ceb4.PNG)
 
 4. Deleting a specific student
+![Delete](https://user-images.githubusercontent.com/111361566/211107683-c98195dd-ae8f-45c1-b7e8-ec592238e8c9.PNG)
+
